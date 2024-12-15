@@ -1,0 +1,249 @@
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\obj\Debug\net8.0\REST_GanttProjects.csproj.AssemblyReference.cache
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\obj\Debug\net8.0\REST_GanttProjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\obj\Debug\net8.0\REST_GanttProjects.AssemblyInfoInputs.cache
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\obj\Debug\net8.0\REST_GanttProjects.AssemblyInfo.cs
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\obj\Debug\net8.0\REST_GanttProjects.csproj.CoreCompileInputs.cache
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\obj\Debug\net8.0\REST_GanttProjects.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\obj\Debug\net8.0\REST_GanttProjects.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\appsettings.json
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\REST_GanttProjects.exe
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\REST_GanttProjects.deps.json
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\REST_GanttProjects.runtimeconfig.json
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\REST_GanttProjects.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\REST_GanttProjects.pdb
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.WsTrust.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.Saml.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\Microsoft.IdentityModel.Xml.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\System.ServiceModel.Duplex.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\System.ServiceModel.Federation.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\System.ServiceModel.Http.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\System.ServiceModel.NetFramingBase.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\System.ServiceModel.NetTcp.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\System.ServiceModel.Primitives.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\System.ServiceModel.Security.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\cs\System.ServiceModel.Federation.resources.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\de\System.ServiceModel.Federation.resources.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\es\System.ServiceModel.Federation.resources.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\fr\System.ServiceModel.Federation.resources.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\it\System.ServiceModel.Federation.resources.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\ja\System.ServiceModel.Federation.resources.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\ko\System.ServiceModel.Federation.resources.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\pl\System.ServiceModel.Federation.resources.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\pt-BR\System.ServiceModel.Federation.resources.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\ru\System.ServiceModel.Federation.resources.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\tr\System.ServiceModel.Federation.resources.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\zh-Hans\System.ServiceModel.Federation.resources.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\zh-Hant\System.ServiceModel.Federation.resources.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\cs\System.ServiceModel.Http.resources.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\de\System.ServiceModel.Http.resources.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\es\System.ServiceModel.Http.resources.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\fr\System.ServiceModel.Http.resources.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\it\System.ServiceModel.Http.resources.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\ja\System.ServiceModel.Http.resources.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\ko\System.ServiceModel.Http.resources.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\pl\System.ServiceModel.Http.resources.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\pt-BR\System.ServiceModel.Http.resources.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\ru\System.ServiceModel.Http.resources.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\tr\System.ServiceModel.Http.resources.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\zh-Hans\System.ServiceModel.Http.resources.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\zh-Hant\System.ServiceModel.Http.resources.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\cs\System.ServiceModel.NetFramingBase.resources.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\de\System.ServiceModel.NetFramingBase.resources.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\es\System.ServiceModel.NetFramingBase.resources.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\fr\System.ServiceModel.NetFramingBase.resources.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\it\System.ServiceModel.NetFramingBase.resources.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\ja\System.ServiceModel.NetFramingBase.resources.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\ko\System.ServiceModel.NetFramingBase.resources.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\pl\System.ServiceModel.NetFramingBase.resources.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\pt-BR\System.ServiceModel.NetFramingBase.resources.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\ru\System.ServiceModel.NetFramingBase.resources.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\tr\System.ServiceModel.NetFramingBase.resources.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\zh-Hans\System.ServiceModel.NetFramingBase.resources.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\zh-Hant\System.ServiceModel.NetFramingBase.resources.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\cs\System.ServiceModel.NetTcp.resources.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\de\System.ServiceModel.NetTcp.resources.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\es\System.ServiceModel.NetTcp.resources.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\fr\System.ServiceModel.NetTcp.resources.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\it\System.ServiceModel.NetTcp.resources.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\ja\System.ServiceModel.NetTcp.resources.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\ko\System.ServiceModel.NetTcp.resources.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\pl\System.ServiceModel.NetTcp.resources.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\pt-BR\System.ServiceModel.NetTcp.resources.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\ru\System.ServiceModel.NetTcp.resources.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\tr\System.ServiceModel.NetTcp.resources.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\zh-Hans\System.ServiceModel.NetTcp.resources.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\zh-Hant\System.ServiceModel.NetTcp.resources.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\cs\System.ServiceModel.Primitives.resources.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\de\System.ServiceModel.Primitives.resources.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\es\System.ServiceModel.Primitives.resources.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\fr\System.ServiceModel.Primitives.resources.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\it\System.ServiceModel.Primitives.resources.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\ja\System.ServiceModel.Primitives.resources.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\ko\System.ServiceModel.Primitives.resources.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\pl\System.ServiceModel.Primitives.resources.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\pt-BR\System.ServiceModel.Primitives.resources.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\ru\System.ServiceModel.Primitives.resources.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\tr\System.ServiceModel.Primitives.resources.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\zh-Hans\System.ServiceModel.Primitives.resources.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\zh-Hant\System.ServiceModel.Primitives.resources.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\obj\Debug\net8.0\staticwebassets\msbuild.REST_GanttProjects.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\obj\Debug\net8.0\staticwebassets\msbuild.build.REST_GanttProjects.props
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.REST_GanttProjects.props
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.REST_GanttProjects.props
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\obj\Debug\net8.0\scopedcss\bundle\REST_GanttProjects.styles.css
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\obj\Debug\net8.0\REST_Gan.3E5A692C.Up2Date
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\obj\Debug\net8.0\REST_GanttProjects.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\obj\Debug\net8.0\refint\REST_GanttProjects.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\obj\Debug\net8.0\REST_GanttProjects.pdb
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\obj\Debug\net8.0\REST_GanttProjects.genruntimeconfig.cache
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\obj\Debug\net8.0\ref\REST_GanttProjects.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\Connected Services\AuthenticateService\ConnectedService.json
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\João Cunha\source\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\Connected Services\ProjectService\ConnectedService.json
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\appsettings.Development.json
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\appsettings.json
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\Connected Services\AuthenticateService\ConnectedService.json
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\Connected Services\ProjectService\ConnectedService.json
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\Connected Services\ServiceReference1\ConnectedService.json
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\REST_GanttProjects.exe
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\REST_GanttProjects.deps.json
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\REST_GanttProjects.runtimeconfig.json
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\REST_GanttProjects.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\REST_GanttProjects.pdb
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.WsTrust.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.Saml.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\Microsoft.IdentityModel.Xml.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\System.ServiceModel.Duplex.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\System.ServiceModel.Federation.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\System.ServiceModel.Http.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\System.ServiceModel.NetFramingBase.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\System.ServiceModel.NetTcp.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\System.ServiceModel.Primitives.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\System.ServiceModel.Security.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\cs\System.ServiceModel.Federation.resources.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\de\System.ServiceModel.Federation.resources.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\es\System.ServiceModel.Federation.resources.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\fr\System.ServiceModel.Federation.resources.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\it\System.ServiceModel.Federation.resources.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\ja\System.ServiceModel.Federation.resources.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\ko\System.ServiceModel.Federation.resources.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\pl\System.ServiceModel.Federation.resources.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\pt-BR\System.ServiceModel.Federation.resources.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\ru\System.ServiceModel.Federation.resources.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\tr\System.ServiceModel.Federation.resources.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\zh-Hans\System.ServiceModel.Federation.resources.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\zh-Hant\System.ServiceModel.Federation.resources.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\cs\System.ServiceModel.Http.resources.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\de\System.ServiceModel.Http.resources.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\es\System.ServiceModel.Http.resources.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\fr\System.ServiceModel.Http.resources.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\it\System.ServiceModel.Http.resources.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\ja\System.ServiceModel.Http.resources.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\ko\System.ServiceModel.Http.resources.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\pl\System.ServiceModel.Http.resources.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\pt-BR\System.ServiceModel.Http.resources.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\ru\System.ServiceModel.Http.resources.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\tr\System.ServiceModel.Http.resources.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\zh-Hans\System.ServiceModel.Http.resources.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\zh-Hant\System.ServiceModel.Http.resources.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\cs\System.ServiceModel.NetFramingBase.resources.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\de\System.ServiceModel.NetFramingBase.resources.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\es\System.ServiceModel.NetFramingBase.resources.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\fr\System.ServiceModel.NetFramingBase.resources.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\it\System.ServiceModel.NetFramingBase.resources.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\ja\System.ServiceModel.NetFramingBase.resources.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\ko\System.ServiceModel.NetFramingBase.resources.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\pl\System.ServiceModel.NetFramingBase.resources.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\pt-BR\System.ServiceModel.NetFramingBase.resources.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\ru\System.ServiceModel.NetFramingBase.resources.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\tr\System.ServiceModel.NetFramingBase.resources.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\zh-Hans\System.ServiceModel.NetFramingBase.resources.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\zh-Hant\System.ServiceModel.NetFramingBase.resources.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\cs\System.ServiceModel.NetTcp.resources.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\de\System.ServiceModel.NetTcp.resources.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\es\System.ServiceModel.NetTcp.resources.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\fr\System.ServiceModel.NetTcp.resources.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\it\System.ServiceModel.NetTcp.resources.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\ja\System.ServiceModel.NetTcp.resources.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\ko\System.ServiceModel.NetTcp.resources.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\pl\System.ServiceModel.NetTcp.resources.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\pt-BR\System.ServiceModel.NetTcp.resources.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\ru\System.ServiceModel.NetTcp.resources.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\tr\System.ServiceModel.NetTcp.resources.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\zh-Hans\System.ServiceModel.NetTcp.resources.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\zh-Hant\System.ServiceModel.NetTcp.resources.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\cs\System.ServiceModel.Primitives.resources.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\de\System.ServiceModel.Primitives.resources.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\es\System.ServiceModel.Primitives.resources.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\fr\System.ServiceModel.Primitives.resources.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\it\System.ServiceModel.Primitives.resources.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\ja\System.ServiceModel.Primitives.resources.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\ko\System.ServiceModel.Primitives.resources.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\pl\System.ServiceModel.Primitives.resources.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\pt-BR\System.ServiceModel.Primitives.resources.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\ru\System.ServiceModel.Primitives.resources.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\tr\System.ServiceModel.Primitives.resources.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\zh-Hans\System.ServiceModel.Primitives.resources.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\zh-Hant\System.ServiceModel.Primitives.resources.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\obj\Debug\net8.0\REST_GanttProjects.csproj.AssemblyReference.cache
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\obj\Debug\net8.0\REST_GanttProjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\obj\Debug\net8.0\REST_GanttProjects.AssemblyInfoInputs.cache
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\obj\Debug\net8.0\REST_GanttProjects.AssemblyInfo.cs
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\obj\Debug\net8.0\REST_GanttProjects.csproj.CoreCompileInputs.cache
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\obj\Debug\net8.0\REST_GanttProjects.MvcApplicationPartsAssemblyInfo.cs
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\obj\Debug\net8.0\REST_GanttProjects.MvcApplicationPartsAssemblyInfo.cache
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\obj\Debug\net8.0\staticwebassets.build.json
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\obj\Debug\net8.0\staticwebassets.development.json
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\obj\Debug\net8.0\staticwebassets\msbuild.REST_GanttProjects.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\obj\Debug\net8.0\staticwebassets\msbuild.build.REST_GanttProjects.props
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.REST_GanttProjects.props
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.REST_GanttProjects.props
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\obj\Debug\net8.0\scopedcss\bundle\REST_GanttProjects.styles.css
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\obj\Debug\net8.0\REST_Gan.3E5A692C.Up2Date
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\obj\Debug\net8.0\REST_GanttProjects.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\obj\Debug\net8.0\refint\REST_GanttProjects.dll
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\obj\Debug\net8.0\REST_GanttProjects.pdb
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\obj\Debug\net8.0\REST_GanttProjects.genruntimeconfig.cache
+D:\Cursos\Licenciatura ESI_PL\Integração de Sistemas de Informação\Trabalho_2\repos\REST_GanttProjects\REST_GanttProjects\obj\Debug\net8.0\ref\REST_GanttProjects.dll
